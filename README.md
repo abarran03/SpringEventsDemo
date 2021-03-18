@@ -9,7 +9,7 @@ It is a POC about Spring Events applications trying to approach asynchronous cap
 
  
 ## How to use
-To clone and run this application, you'll need [Git](https://git-scm.com), [Maven](https://maven.apache.org/), [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Maven](https://maven.apache.org/), [Java 11](https://openjdk.java.net/projects/jdk/11/). From your command line:
 
 ```bash
 # Install dependencies
